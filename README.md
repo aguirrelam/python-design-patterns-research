@@ -19,4 +19,5 @@ Para replicar las métricas obtenidas en la investigación, se requiere Python 3
    pip install radon
    
 2. Ejecutar análisis de Complejidad Ciclomática (CC):
+   
    radon cc . -s
